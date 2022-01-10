@@ -7,8 +7,8 @@ interests in Web Dev, Machine Learning, and AI.
 ## Projects
   ### 1
   #### This project is a challenge from FrontEndMentor. I attempt to recreate the webpage based on the figma design. I integrated flex box properties and media queries to produce the optimal layout based on user device. 
-  - [live site]()
-  - [repository]()
+  - [live site](https://zealous-wright-cb2f9c.netlify.app/)
+  - [repository](https://github.com/manny2384/FrontEndMentor/tree/main/gallery/src)
   - ![](https://github.com/manny2384/FrontEndMentor/blob/main/gallery/art-gallery-website/desktop.png)
   
   ### 2
