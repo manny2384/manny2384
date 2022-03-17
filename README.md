@@ -32,7 +32,7 @@ interests in Web Dev, Machine Learning, and AI.
 ### 🌱 As I said before, lately I've been interested in learning about Machine Learning and since I didn't get the chance to learn at while in school, I've been taking online courses to learn at my own pace. Currently I have a few projects I built apart from course excercise
 
 #### This project implements multivariate regression. The goal of the project was to implement the algorithm from scratch by programming the functions for gradient descent, cost function, and vectorizing the computations to increase speed. 
-  - ![Code on Kaggle](https://www.kaggle.com/code/manny2384/medical-cost-lr)
+  - [Code on Kaggle](https://www.kaggle.com/code/manny2384/medical-cost-lr)
   - ![Medical Regression Gif](https://github.com/manny2384/Algorithms/blob/master/MedicalRegression.gif)
   
  #### This project was built after learning how games such as tic tac toe define a move via minimax decision making.
