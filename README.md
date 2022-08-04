@@ -10,19 +10,14 @@ interests in Web Dev, Machine Learning, and AI.
   - [live site](https://zealous-wright-cb2f9c.netlify.app/)
   - [repository](https://github.com/manny2384/FrontEndMentor/tree/main/gallery/src)
   - ![](https://github.com/manny2384/FrontEndMentor/blob/main/gallery/art-gallery-website/desktop.png)
-  
-  ### 2
-  #### This project focused on API calls from client side. It served as a means of getting comfortable with JSON data and managing network calls.
-  - [live site](https://weatherproj-7f551.web.app)
-  - [repository](https://github.com/manny2384/weather)
     
-  ### 3
+  ### 2
   #### My planets project is composed of learning functional components in REACT and using a JSON data file to serve each component depending on the planet name( state )
   - [live site](https://manny2384.github.io/planets/)
   - [repository](https://github.com/manny2384/planets)
   - ![Planets Gif](https://github.com/manny2384/planets/blob/main/planets.gif)
   
-  ### 4
+  ### 3
   #### This project was 1 of the challenges I took from FrontEndMentor. The goal was the recreate the loopstudios landing page as close as possible by making judgements based off the design. The secondary goal was to make it a responsive design for both mobile and desktops.
   
     - [site](https://manny2384.github.io/LoopStudios/)
