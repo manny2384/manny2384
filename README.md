@@ -5,23 +5,12 @@ I focused more on data structures, web development, and databases while doing my
 interests in Web Dev, Machine Learning, and AI.
 
 ## Projects
+
   ### 1
-  #### This project is a challenge from FrontEndMentor. I attempt to recreate the webpage based on the figma design. I integrated flex box properties and media queries to produce the optimal layout based on user device. 
-  - [live site](https://zealous-wright-cb2f9c.netlify.app/)
-  - [repository](https://github.com/manny2384/FrontEndMentor/tree/main/gallery/src)
-  - ![](https://github.com/manny2384/FrontEndMentor/blob/main/gallery/art-gallery-website/desktop.png)
-    
-  ### 2
   #### My planets project is composed of learning functional components in REACT and using a JSON data file to serve each component depending on the planet name( state )
   - [live site](https://manny2384.github.io/planets/)
   - [repository](https://github.com/manny2384/planets)
   - ![Planets Gif](https://github.com/manny2384/planets/blob/main/planets.gif)
-  
-  ### 3
-  #### This project was 1 of the challenges I took from FrontEndMentor. The goal was the recreate the loopstudios landing page as close as possible by making judgements based off the design. The secondary goal was to make it a responsive design for both mobile and desktops.
-  
-    - [site](https://manny2384.github.io/LoopStudios/)
-    - [repository](https://github.com/manny2384/LoopStudios/tree/master)
    
 ## Interests
 ### 🌱 As I said before, lately I've been interested in learning about Machine Learning. I've been taking online courses to learn at my own pace. Currently I have a few projects I built apart from course excercise
